@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is XKuijpers, and I'm currently doing a 4 years course in order to become a Software Developer. All of my GitHub school projects will be publically linked on this profile. I'm hoping to become a successful software developer some time, and to work for popular game industries in the future.
+My name is Xander Kuijpers, and I'm currently doing a 4 years course in order to become a Software Developer.
+
+All of my GitHub schoolprojects will be publically linked on this profile, and I hope to become a successful software developer in the future, so I can work for popular web industries in the future.
 
 <!--
 **XKuijpers/XKuijpers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
