@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Xander Kuijpers, and I'm currently busy with a 4 year long course in order to become a Software Developer for websites.
+My name is Xander Kuijpers, and I'm currently busy with a 4 year long course in order to become a Software Developer for websites, of which I'm currently in the second schoolyear for.
 
 All of my GitHub schoolprojects will be publicly visible on my profile, and I hope to become a successful software developer in the future so I can work for popular web industries and improve on my skills.
 
